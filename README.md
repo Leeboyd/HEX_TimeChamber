@@ -39,6 +39,10 @@ The F2E - 前端修練精神時光屋
   * 查看 URI `heroku config:get MONGODB_URI`
 
 7. Connecting to MongoDB instance
+8. Define schema `models/todo.js`
+9. Create `routes/todos.js`
+10. Create `controllers/todos.js`
+
 
 
 
